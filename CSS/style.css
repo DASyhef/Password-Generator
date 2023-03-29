@@ -25,7 +25,6 @@ html {
     margin-left: 40px;
     margin-top: 25px;
     margin-bottom: 20px;
-    display:none;
   }
   
   .slider:hover {
@@ -57,9 +56,7 @@ html {
   .action-btn:hover {
     opacity: 0.5;
   }
-  label {display: none}
-  input{ display: none;}
-  
+ 
   .wrapper {
     display: flex;
     background-color: rgb(253, 253, 252);
